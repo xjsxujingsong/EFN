@@ -15,4 +15,3 @@ Please open the project with Visual Studio 2013.
 ![Image text](https://github.com/RS130/EFN/blob/master/Git/demo/big/P0258_heats.jpg)
 ![Image text](https://github.com/RS130/EFN/blob/master/Git/demo/big/P0258_edges.jpg)
 ![Image text](https://github.com/RS130/EFN/blob/master/Git/demo/big/P0258.jpg)
-
