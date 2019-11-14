@@ -8,8 +8,7 @@ A FCN framework for oriented objetct detection.
 ![Image text](https://github.com/RS130/EFN/blob/master/Git/demo/small/P0002.jpg)
 
 #### Visualization of detection results in whole images.
-<img src="https://github.com/RS130/EFN/blob/master/Git/demo/big/P0258_heats.jpg" width="600">
-<img src="https://github.com/RS130/EFN/blob/master/Git/demo/big/P0258_edges.jpg" width="600">
-<img src="https://github.com/RS130/EFN/blob/master/Git/demo/big/P0258.jpg" width="600">
-
+![Image text](https://github.com/RS130/EFN/blob/master/Git/demo/big/P0258_heats.jpg)
+![Image text](https://github.com/RS130/EFN/blob/master/Git/demo/big/P0258_edges.jpg)
+![Image text](https://github.com/RS130/EFN/blob/master/Git/demo/big/P0258.jpg)
 
