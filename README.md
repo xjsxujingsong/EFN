@@ -1,7 +1,8 @@
 # EFN
 Ellipse Field Network for Oriented Object Detection in Aerial Images.
 
-The work is implemented 
+This work is done with Darknet on Windows 10, codes are available at https://pan.baidu.com/s/16liZ_Ly2ZSxTo-erkeIidA.
+Please open the project with Visual Studio 2013.
 
 A FCN framework for oriented objetct detection.
 #### Visualization of detection results in patches of the testing set.
